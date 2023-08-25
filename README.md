@@ -4,8 +4,8 @@
 Welcome to the Chap App repository! This project is a chat application built using React, Firebase for authentication and real-time updates, and enhanced with Material-UI components and icons.
 
 
-![Chap App Screenshot]( https://firebasestorage.googleapis.com/v0/b/chatapp-e0ef2.appspot.com/o/Chat-App%20(3).png?alt=media&token=5f6cc7e4-5cbf-42b1-a5de-d58b43a8b8c1
-), (https://firebasestorage.googleapis.com/v0/b/chatapp-e0ef2.appspot.com/o/Chat-App%20(2).png?alt=media&token=a6a62433-25ff-46bb-90f0-864852865ff0)
+![Chap App Screenshot]( https://firebasestorage.googleapis.com/v0/b/chatapp-e0ef2.appspot.com/o/Chat-App%20(3).png?alt=media&token=5f6cc7e4-5cbf-42b1-a5de-d58b43a8b8c1.https://firebasestorage.googleapis.com/v0/b/chatapp-e0ef2.appspot.com/o/Chat-App%20(2).png?alt=media&token=a6a62433-25ff-46bb-90f0-864852865ff0)
+)
 
 ## Features
 
