@@ -1,0 +1,19 @@
+.formContainer{
+    background: lightblue;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .formWrapper{
+        background-color: white;
+        padding: 20px;
+        ba
+        form{
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+
+        }
+    }
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;;
+}
+button,svg{
+    transition: scale 3s ease-in;
+}
+button:hover{
+    transform: scale(1.05);
+}
+svg{
+    color: ste;
+}
